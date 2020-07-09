@@ -1,37 +1,37 @@
 {
-  "name": "arlinadzgn.com",
-  "short_name": "ArlinaDesign",
-  "start_url": "https://www.arlinadzgn.com/",
+  "name": "arlinacode.com",
+  "short_name": "ArlinaCode",
+  "start_url": "https://www.arlinacode.com/",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#f24a4a",
-  "description": "Tempatnya Berbagi Tutorial Blogger",
+  "description": "Berbagi Tips Seputar Blogger dan Informasi Lainnya",
   "icons": [{
-    "src": "https://2.bp.blogspot.com/-6amwQysbmlI/Wujdf6O88AI/AAAAAAAAGkY/FxjdVZRNIvwAgSB-xAw745qe4cRhhY50wCLcBGAs/s48/android-icon-192x192.png",
+    "src": "https://1.bp.blogspot.com/-UMO50MjJ22c/XwcEGu_LrLI/AAAAAAAAJoA/Y0dZtBlwcjM7j4ugXJENlIwaIhghPKCHgCLcBGAsYHQ/s48/Arlina%2BCode%2BNew.png",
     "sizes": "48x48",
     "type": "image/png"
   }, {
-    "src": "https://2.bp.blogspot.com/-6amwQysbmlI/Wujdf6O88AI/AAAAAAAAGkY/FxjdVZRNIvwAgSB-xAw745qe4cRhhY50wCLcBGAs/s72/android-icon-192x192.png",
+    "src": "https://1.bp.blogspot.com/-UMO50MjJ22c/XwcEGu_LrLI/AAAAAAAAJoA/Y0dZtBlwcjM7j4ugXJENlIwaIhghPKCHgCLcBGAsYHQ/s72/Arlina%2BCode%2BNew.png",
     "sizes": "72x72",
     "type": "image/png"
   }, {
-    "src": "https://2.bp.blogspot.com/-6amwQysbmlI/Wujdf6O88AI/AAAAAAAAGkY/FxjdVZRNIvwAgSB-xAw745qe4cRhhY50wCLcBGAs/s96/android-icon-192x192.png",
+    "src": "https://1.bp.blogspot.com/-UMO50MjJ22c/XwcEGu_LrLI/AAAAAAAAJoA/Y0dZtBlwcjM7j4ugXJENlIwaIhghPKCHgCLcBGAsYHQ/s96/Arlina%2BCode%2BNew.png",
     "sizes": "96x96",
     "type": "image/png"
   }, {
-    "src": "https://2.bp.blogspot.com/-6amwQysbmlI/Wujdf6O88AI/AAAAAAAAGkY/FxjdVZRNIvwAgSB-xAw745qe4cRhhY50wCLcBGAs/s144/android-icon-192x192.png",
+    "src": "https://1.bp.blogspot.com/-UMO50MjJ22c/XwcEGu_LrLI/AAAAAAAAJoA/Y0dZtBlwcjM7j4ugXJENlIwaIhghPKCHgCLcBGAsYHQ/s144/Arlina%2BCode%2BNew.png",
     "sizes": "144x144",
     "type": "image/png"
   }, {
-    "src": "https://2.bp.blogspot.com/-6amwQysbmlI/Wujdf6O88AI/AAAAAAAAGkY/FxjdVZRNIvwAgSB-xAw745qe4cRhhY50wCLcBGAs/s168/android-icon-192x192.png",
+    "src": "https://1.bp.blogspot.com/-UMO50MjJ22c/XwcEGu_LrLI/AAAAAAAAJoA/Y0dZtBlwcjM7j4ugXJENlIwaIhghPKCHgCLcBGAsYHQ/s168/Arlina%2BCode%2BNew.png",
     "sizes": "168x168",
     "type": "image/png"
   }, {
-    "src": "https://2.bp.blogspot.com/-6amwQysbmlI/Wujdf6O88AI/AAAAAAAAGkY/FxjdVZRNIvwAgSB-xAw745qe4cRhhY50wCLcBGAs/s192/android-icon-192x192.png",
+    "src": "https://1.bp.blogspot.com/-UMO50MjJ22c/XwcEGu_LrLI/AAAAAAAAJoA/Y0dZtBlwcjM7j4ugXJENlIwaIhghPKCHgCLcBGAsYHQ/s192/Arlina%2BCode%2BNew.png",
     "sizes": "192x192",
     "type": "image/png"
   }, {
-    "src": "https://2.bp.blogspot.com/-oNinqiM9bRE/Wujd67xqMwI/AAAAAAAAGkg/AbHJRPTy0t0KK3ZpG7zoKxseQALAVc0LgCLcBGAs/s512/Logo.png",
+    "src": "https://1.bp.blogspot.com/-UMO50MjJ22c/XwcEGu_LrLI/AAAAAAAAJoA/Y0dZtBlwcjM7j4ugXJENlIwaIhghPKCHgCLcBGAsYHQ/s512/Arlina%2BCode%2BNew.png",
     "sizes": "512x512",
     "type": "image/png"
   }]
